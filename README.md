@@ -1,3 +1,5 @@
+Milestone 02. Public on Github and host on Vercel [100 points]
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
